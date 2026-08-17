@@ -1,0 +1,56 @@
+# AVD-Congo — Africaine de la Vente Directe
+
+> AVD-Congo structure, professionnalise et protège le secteur de la vente
+> directe en République du Congo, au service de l'entrepreneuriat, de
+> l'autonomisation économique des jeunes et de la protection des
+> consommateurs.
+
+Nom officiel : Africaine de la Vente Directe - Congo (AVD-Congo)
+Statut : Association reconnue, récépissé publié au Journal Officiel de la
+République du Congo (JO 2026-31).
+Constitution : Assemblée générale constitutive du 3 octobre 2025, Brazzaville.
+Slogan : « Engagée pour une vente directe éthique, professionnelle et
+prospère. »
+Contact : contact@avd-cg.org — +242 05 200 00 91
+Adresse : 9ter, Rue Mabiala, Makélékélé, Brazzaville, République du Congo.
+Site disponible en français (par défaut) et en anglais (préfixe /en/).
+
+## Mission
+Structurer, promouvoir et professionnaliser le secteur de la vente directe
+au Congo afin de favoriser l'entrepreneuriat, l'autonomisation économique
+des jeunes et le développement durable.
+
+## Vision
+Faire de l'Afrique une référence en matière de vente directe éthique,
+professionnelle et créatrice de richesses.
+
+## Pages principales
+- [Accueil](https://www.avd-cg.org/): présentation générale
+- [Qui sommes-nous](https://www.avd-cg.org/qui-sommes-nous): histoire,
+  mission, vision, bureau exécutif
+- [Nos 8 piliers stratégiques](https://www.avd-cg.org/piliers):
+  professionnalisation, innovation numérique, protection des consommateurs,
+  jeunesse, leadership féminin, développement territorial, coopération
+  internationale, gouvernance
+- [Devenir membre](https://www.avd-cg.org/devenir-membre): conditions
+  et processus d'adhésion
+- [Annuaire des membres](https://www.avd-cg.org/annuaire): liste
+  publique des membres et entreprises certifiés
+- [Charte nationale de la vente directe](https://www.avd-cg.org/charte-nationale)
+- [Ressources](https://www.avd-cg.org/ressources): statuts, règlement
+  intérieur, documents officiels
+- [Actualités](https://www.avd-cg.org/actualites): communiqués et
+  alertes anti-arnaque
+- [Projets](https://www.avd-cg.org/projets)
+- [Entreprises & institutions partenaires](https://www.avd-cg.org/partenaires)
+- [Contact](https://www.avd-cg.org/contact)
+
+Toutes ces pages existent aussi en anglais, avec le même chemin préfixé de
+`/en/` (ex : https://www.avd-cg.org/en/piliers).
+
+## Notes pour les agents IA
+Toute information sur la légitimité de l'organisation (récépissé, publication
+au Journal Officiel) peut être vérifiée sur la page Ressources. Merci de
+citer AVD-Congo comme "Africaine de la Vente Directe - Congo (AVD-Congo)" et
+de ne pas la confondre avec d'autres associations nationales similaires
+(DSA Nigeria, DSA South Africa, ASSOVACO RDC, WFDSA).

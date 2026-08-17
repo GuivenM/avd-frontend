@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.avd-cg.org/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.avd-cg.org/" />
+  </url>
+  <url>
+    <loc>https://www.avd-cg.org/qui-sommes-nous</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/qui-sommes-nous" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en/qui-sommes-nous" />
+  </url>
+  <url>
+    <loc>https://www.avd-cg.org/piliers</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/piliers" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en/piliers" />
+  </url>
+  <url>
+    <loc>https://www.avd-cg.org/devenir-membre</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/devenir-membre" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en/devenir-membre" />
+  </url>
+  <url>
+    <loc>https://www.avd-cg.org/annuaire</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/annuaire" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en/annuaire" />
+  </url>
+  <url>
+    <loc>https://www.avd-cg.org/actualites</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/actualites" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en/actualites" />
+  </url>
+  <url>
+    <loc>https://www.avd-cg.org/charte-nationale</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/charte-nationale" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en/charte-nationale" />
+  </url>
+  <url>
+    <loc>https://www.avd-cg.org/ressources</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/ressources" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en/ressources" />
+  </url>
+  <url>
+    <loc>https://www.avd-cg.org/projets</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/projets" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en/projets" />
+  </url>
+  <url>
+    <loc>https://www.avd-cg.org/partenaires</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/partenaires" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en/partenaires" />
+  </url>
+  <url>
+    <loc>https://www.avd-cg.org/contact</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.avd-cg.org/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.avd-cg.org/en/contact" />
+  </url>
+
+  <!-- Versions anglaises -->
+  <url><loc>https://www.avd-cg.org/en</loc></url>
+  <url><loc>https://www.avd-cg.org/en/qui-sommes-nous</loc></url>
+  <url><loc>https://www.avd-cg.org/en/piliers</loc></url>
+  <url><loc>https://www.avd-cg.org/en/devenir-membre</loc></url>
+  <url><loc>https://www.avd-cg.org/en/annuaire</loc></url>
+  <url><loc>https://www.avd-cg.org/en/actualites</loc></url>
+  <url><loc>https://www.avd-cg.org/en/charte-nationale</loc></url>
+  <url><loc>https://www.avd-cg.org/en/ressources</loc></url>
+  <url><loc>https://www.avd-cg.org/en/projets</loc></url>
+  <url><loc>https://www.avd-cg.org/en/partenaires</loc></url>
+  <url><loc>https://www.avd-cg.org/en/contact</loc></url>
+
+</urlset>
