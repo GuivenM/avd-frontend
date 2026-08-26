@@ -1,0 +1,16 @@
+:root {
+  --orange: #E84C00;
+  --orange-dark: #C43F00;
+  --navy: #1A1A2E;
+  --blue: #2B3FBE;
+  --white: #FFFFFF;
+  --bg: #FDFCFB;
+  --ink: #22222E;
+  --gray: #6B6F7B;
+  --line: #EAE7E2;
+  --font-display: 'Sora', sans-serif;
+  --font-label: 'Montserrat', sans-serif;
+  --font-body: 'Work Sans', sans-serif;
+  --gold: #F2A93B;
+  --gold-dark: #D6901F;
+}
